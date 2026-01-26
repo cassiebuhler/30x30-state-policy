@@ -39,7 +39,9 @@ A collection of 30x30 implementations at the state-level.
 ## References: 
 - State of California. (2020, October 7). Executive Order N‑82‑20. https://www.gov.ca.gov/wp-content/uploads/2020/10/10.07.2020-EO-N-82-20-.pdf
 - California Legislature. (2023). Senate Bill 337 (Chapter 392, Statutes of 2023): Environmental protection: lands and coastal waters conservation goal. Approved October 7, 2023. https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240SB337
+- California Natural Resources Agency. (2025). Pathways to 30×30 Annual Progress Report 2025. https://resources.ca.gov/-/media/CNRA-Website/Files/2025-30x30-Pathways-Progress-Report.pdf
 - Hawaiʻi Department of Land and Natural Resources, Division of Aquatic Resources. (2020, December). Holomua: Marine 30×30 — Roadmap to effective management of near-shore waters. https://dlnr.hawaii.gov/dar/files/2020/12/HolomuaMarine30x30_Roadmap_final.pdf
+- Hawaiʻi Department of Land and Natural Resources, Division of Aquatic Resources. (2024, July). Holomua Marine Initiative: A guide to navigating nearshore resource management.https://dlnr.hawaii.gov/holomua/files/2024/07/Holomua-Guide-Final-July2024.pdf
 - State of Illinois. (2021, August 27). Public Act 102‑0618: Illinois Thirty‑by‑Thirty Conservation Task Force Act. https://www.ilga.gov/Legislation/publicacts/view/102-0618
 - Illinois General Assembly. (2024). Senate Resolution 632 – Establishing a 30 × 30 Coordinating Council [Resolution]. https://www.ilga.gov/Legislation/BillStatus?DocNum=632&GAID=17&DocTypeID=SR&LegId=151047&SessionID=112&GA=103
 - Nevada Legislature. (2021). Assembly Joint Resolution No. 3 (81st Leg., 2021). https://www.leg.state.nv.us/App/NELIS/REL/81st2021/Bill/7487/Overview
