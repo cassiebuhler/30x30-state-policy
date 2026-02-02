@@ -100,7 +100,7 @@ State-level policy information is presented alongside U.S. Census state boundari
 -Michigan Department of Natural Resources. (n.d.). Michigan the Beautiful—conserving 30% of Michigan’s lands and waters by 2030. State of Michigan. Retrieved January 30, 2026. https://www.michigan.gov/dnr/managing-resources/mtb
 
 #### New Jersey
-- State of New Jersey, Office of the Governor. (2025, June 3). New Jersey joins Global Commitment to Preserve 30 % of Natural Lands by 2030. https://www.nj.gov/governor/news/news/562025/approved/20250603c.shtml
+- State of New Jersey, Office of the Governor. (2025, June 3). New Jersey joins Global Commitment to Preserve 30 % of Natural Lands by 2030. https://web.archive.org/web/20251016215612/https://www.nj.gov/governor/news/news/562025/approved/20250603c.shtml. 
 
 #### New Mexico
 - State of New Mexico. (2021, August 25). Executive Order 2021‑052: Protecting New Mexico’s Lands, Watersheds, Wildlife, and Natural Heritage. https://www.governor.state.nm.us/wp-content/uploads/2021/08/Executive-Order-2021-052.pdf

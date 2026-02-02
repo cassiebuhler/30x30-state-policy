@@ -189,7 +189,7 @@ progress_sources = [
         "progress_type": "Achieved",
         "progress_notes": "State press release includes statement that New Jersey has already achieved the 30×30 goal.",
         "progress_citation": "State of New Jersey, Office of the Governor. (2025, June 3). New Jersey joins Global Commitment to Preserve 30% of Natural Lands by 2030.",
-        "progress_url": "https://www.nj.gov/governor/news/news/562025/approved/20250603c.shtml",
+        "progress_url": "https://web.archive.org/web/20251016215612/https://www.nj.gov/governor/news/news/562025/approved/20250603c.shtml",
     },
     {
         "state_id": "NM",
