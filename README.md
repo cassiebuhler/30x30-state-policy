@@ -5,6 +5,8 @@ Policy records were collected, reviewed, and standardized by the author from pub
 
 State-level policy information is presented alongside U.S. Census state boundaries and visualized as maps to support comparison across states and policy mechanisms.
 
+Data generated from this script is uploaded to [Source Cooperative](https://source.coop/cassiebuhler/30x30-state-policy).
+
 ## State-Level 30×30 Policy Implementation
 
 | State | Implementation Type | Notes | 
